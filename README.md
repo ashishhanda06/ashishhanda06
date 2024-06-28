@@ -18,7 +18,7 @@ Programming: Python, SQL, Bash scripting
 Data Tools: Splunk, Pandas, Apache Spark
 🌟 Let's Connect: I'm eager to collaborate on innovative data projects and share insights with fellow data enthusiasts. Reach out, and let's explore how we can drive data-driven excellence together!
 
-📫 Contact Me: [LinkedIn]([url](https://www.linkedin.com/in/ashish-handa-a419481b9/)) | [Email](cu.18bcs3070@gmail.com)
+📫 Contact Me: [LinkedIn]([url](https://www.linkedin.com/in/ashish-handa-a419481b9/)) | [Email](cu.18bcs3070@gmail.com) | [Linkedin]((https://www.linkedin.com/in/ashish-handa-a419481b9/))
 
 
 
